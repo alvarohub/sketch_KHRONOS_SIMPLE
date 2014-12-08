@@ -3,7 +3,7 @@
 /*  Copyright (C) 2005, ALVARO CASSINELLI <http://www.k2.t.u-tokyo.ac.jp/members/alvaro/Khronos>                                                                                */                                                                                                                  
 /*  Note (1): use of this code, part of this code or exploitation of the proposed video/image manipulation mechanism is -in principle- allowed for non-commercial               */
 /*  purposes as long as proper credit is given, including if possible a link or reference to the main project page: http://www.k2.t.u-tokyo.ac.jp/members/alvaro/Khronos.       */
-/*  (contact me at alvaro(at)hotmail.com if you want to be completely sure). For commercial applications, be sure to contact me!                                                */
+/*  (contact me at alvaro(at)gmail.com if you want to be completely sure). For commercial applications, be sure to contact me!                                                */
 /*  Note (2): A more versatile java version of this demo may be online, which may not necessarily correspond to this code for technical reasons.                                */
 /*  Note (3): Image resolution, functionalities and speed of execution is limited in this Java demo, compared with the C++ version used in the Khronos Projector installation.  */
 /*  Note (4): This code is made available in the Processing spirit of "sharing and learning from one another" - but I cannot guarantee that you will find here a "nice" example */
